@@ -41,6 +41,10 @@ This system enabled automated metadata extraction from `.pbix` files, eliminatin
 
 ---
 
+## Project Link
+
+🔗 **GitHub Repository:** https://github.com/Abhi-shekh/PBI-Rationalisation-Tool
+
 ## Code Snippet
 
 ```python
@@ -53,6 +57,4 @@ if has_definition:
 elif has_layout:
     _parse_format_a(zf, meta)
 
-## Project Link
 
-🔗 **GitHub Repository:** https://github.com/Abhi-shekh/PBI-Rationalisation-Tool
